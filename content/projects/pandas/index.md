@@ -1,6 +1,6 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Modelling Mergers From amplitudes
+date: 2026-11-04
 links:
   - type: site
     url: https://github.com/pandas-dev/pandas
@@ -10,6 +10,6 @@ tags:
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+We can compute the classical observables from quantum scattering amplitude.
 
 <!--more-->
