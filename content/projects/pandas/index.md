@@ -1,5 +1,5 @@
 ---
-title: Modelling Mergers From amplitudes
+title: pandas
 date: 2026-11-04
 links:
   - type: site
