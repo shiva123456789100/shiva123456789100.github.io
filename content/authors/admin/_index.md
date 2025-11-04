@@ -58,14 +58,14 @@ education:
     institution: IISER Kolkata
     icon: ""
     date_start: 2021-12-21
-    date_end: Now
+    date_end: 2026-06-06
     Grades: 9.44/10
 
       
   - area: Higher Secondary Education
     institution : Burdwan Municipal High School
-    date_start: 2012
-    date_end: Now
+    date_start: 2008-01-01
+    date_end: 2021-06-21
    
         
 
