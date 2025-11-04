@@ -20,6 +20,7 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+      rows: 2
       show_date: false
       show_read_time: false
       show_read_more: false
