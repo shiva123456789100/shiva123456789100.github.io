@@ -95,15 +95,15 @@ skills:
     items:
       - name: Python 
         description: ''
-        percent: 100
+        value: 100
         icon: code-bracket
       - name: Mathematica
         description: ''
-        percent: 90
+        value: 90
         icon: chart-bar
       - name: Matlab
         description: ''
-        percent: 90
+        value: 90
         icon: cloud
   - name: Hobbies
     color: '#eeac02'
@@ -111,15 +111,15 @@ skills:
     items:
       - name: Badminton
         description: ''
-        percent: 80
+        value: 80
         icon: person-simple-walk
       - name: Anime and Manga
         description: ''
-        percent: 90
+        value: 90
         icon: cpu-chip
       - name: Classic Literature
         description: ''
-        percent: 70
+        value: 70
         icon: book-open
 
 languages:
