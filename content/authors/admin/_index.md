@@ -94,15 +94,15 @@ skills:
   - name: Technical Skills
     items:
       - name: Python 
-        description: ''
+        description: 'Proficient in numerical computing'
         value: 100
         icon: code-bracket
       - name: Mathematica
-        description: ''
+        description: 'Proficient in tensor manipulations'
         value: 90
         icon: chart-bar
       - name: Matlab
-        description: ''
+        description: 'Proficent in big-data handling'
         value: 90
         icon: cloud
   - name: Hobbies
@@ -110,15 +110,15 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Badminton
-        description: ''
+        description: 'Participated in auction tournaments'
         value: 80
         icon: person-simple-walk
       - name: Anime and Manga
-        description: ''
+        description: 'Just love to read manga'
         value: 90
         icon: cpu-chip
       - name: Classic Literature
-        description: ''
+        description: 'Classical literatures are always my favourite'
         value: 70
         icon: book-open
 
