@@ -61,12 +61,12 @@ education:
     date_end: Now
     Grades: 9.44/10
 
-      Specialized in machine learning and robotics.
+      
   - area: Higher Secondary Education
     institution : Burdwan Municipal High School
     date_start: 2012
     date_end: Now
-    Summary: |
+   
         
 
 
@@ -79,7 +79,7 @@ work:
     date_start: 2020-01-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.   
   - position: AI Research Intern
     company_name: OpenAI
     company_url: 'https://openai.com/'
