@@ -148,14 +148,14 @@ awards:
     awarder: JBNSTS
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
+      Yearly travel allowance , enrichment camps for only selected 50 students across all disciplines of STEM.
   - title: Student of the Year
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+    url: https://www.bmhschool.com/
+    date: '2021-06-30'
+    awarder: Burdwan Municipal High School
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Secured 8th rank in Higher secondary exam in the state of West Bengal among 1.5 million candidate.
 ---
 
 
