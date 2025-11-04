@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior Final year Undergrad student
+role: Senior year Undergrad student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,15 +33,14 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'shibashismukhopadhyay@gmail.com'
-    label: E-mail Me
+  - icon: solid/envelope
+    url: mailto:shibashismukhopadhyay@gmail.com
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/shiva123456789100
   - icon: brands/linkedin
-    url: www.linkedin.com/in/shibashis-mukhopadhyay-5b665b235
+    url: https://www.linkedin.com/in/shibashis-mukhopadhyay-5b665b235/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
