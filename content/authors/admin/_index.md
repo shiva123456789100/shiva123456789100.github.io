@@ -58,7 +58,7 @@ education:
     icon: ""
     date_start: 2021-12-21
     date_end: 2026-06-06
-    Grades: 9.44/10
+    grades: 9.44/10
 
       
   - area: Higher Secondary Education
