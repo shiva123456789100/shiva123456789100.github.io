@@ -87,6 +87,22 @@ work:
     date_end: 2024-08-22
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - position: NIUS physics
+    company_name: Prof. Manorajan p.Singh, RRCAT, Indore
+    company_url: 'https://www.rrcat.gov.in/index_eng.html'
+    icon: ''
+    date_start: 2023-05-10
+    date_end: 2024-01-14
+    summary: |
+      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - position: Summer Student 
+    company_name: Prof. Amitava RayChaudhari
+    company_url: 'https://en.wikipedia.org/wiki/Amitava_Raychaudhuri'
+    icon: ''
+    date_start: 2023-04-10
+    date_end: 2023-08-14
+    summary: |
+      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
