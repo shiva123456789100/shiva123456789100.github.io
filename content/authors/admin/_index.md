@@ -95,15 +95,15 @@ skills:
     items:
       - name: Python 
         description: 'Proficient in numerical computing'
-        value: 100
+        percent: 100
         icon: code-bracket
       - name: Mathematica
         description: 'Proficient in tensor manipulations'
-        value: 90
+        percent: 90
         icon: chart-bar
       - name: Matlab
         description: 'Proficent in big-data handling'
-        value: 90
+        percent: 90
         icon: cloud
   - name: Hobbies
     color: '#eeac02'
@@ -111,15 +111,15 @@ skills:
     items:
       - name: Badminton
         description: 'Participated in auction tournaments'
-        value: 80
+        percent: 80
         icon: person-simple-walk
       - name: Anime and Manga
         description: 'Just love to read manga'
-        value: 90
+        percent: 90
         icon: cpu-chip
       - name: Classic Literature
         description: 'Classical literatures are always my favourite'
-        value: 70
+        percent: 70
         icon: book-open
 
 languages:
