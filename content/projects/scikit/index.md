@@ -1,5 +1,5 @@
 ---
-title: GW from amplitudes
+title: scikit
 date: 2025-11-06
 links:
   - type: site
