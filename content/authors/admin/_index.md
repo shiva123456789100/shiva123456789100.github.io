@@ -58,8 +58,9 @@ education:
     icon: ""
     date_start: 2021-12-21
     date_end: 2026-06-06
-    grades: 9.44/10
-
+    summary: |
+      GPA: 9.44 / 10
+      Focus: Physics and Computational Techniques
       
   - area: Higher Secondary Education
     institution : Burdwan Municipal High School
