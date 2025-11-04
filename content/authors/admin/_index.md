@@ -59,13 +59,7 @@ education:
     icon: ""
     date_start: 2021-12-21
     date_end: Now
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-    summary: |
-      GPA: 4.0/4.0
+    Grades: 9.44/10
 
       Specialized in machine learning and robotics.
   - area: Higher Secondary Education
