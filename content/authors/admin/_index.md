@@ -129,7 +129,7 @@ languages:
   - name: English
     percent: 98
   - name: Hindi
-    percentage : 90
+    percent : 90
 
 # Awards.
 #   Add/remove as many awards below as you like.
