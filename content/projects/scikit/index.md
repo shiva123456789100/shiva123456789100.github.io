@@ -1,6 +1,6 @@
 ---
-title: scikit
-date: 2025-11-06
+title: GW amplitudes
+date: 2025-11-02
 links:
   - type: site
     url: https://github.com/scikit-learn/scikit-learn
