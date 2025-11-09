@@ -29,5 +29,14 @@ In recent years, physicists have turned to Feynman-diagrammatic frameworks, brin
 
 The machinary of computing classical limit from amplitude was already at our disposal, in form of [KMOC](https://arxiv.org/abs/1811.10950) formalism. [Nima Arkani Hamed et al](https://arxiv.org/pdf/1709.04891) equipped us with all possible massive-massive-graviton/photon three point functions. Thus, all the collider caculations have found a new hunting ground. 
 
+In my MS thesis,with Prof. Arnab Rudra , IISER Bhopal,we are trying to address a few related queries and issues under this broad theme:  
+1. Although computationally robust enough to be widely applicable, KMOC prescription has some conceptual pitfalls. Inconsistent restoration of $\hbar$ and lack of convincing arguments about cancellation of superclassical terms at higher order are two biggest issue.  
+2. WQFT,EFT prescriptions have been able to model the neutron star-neutron star mergers in addition to BH mergers. But , classical limit of amplitudes only have focused on minimally copuled higher spin fields till now, which gives BH scattering. So, the natural question arises what can be done to extend the framework for any general spinning compact object?
+
+
+** Want to know about amplitudes: I am creating an online course page for u, where you will carry the same journey with me**  
+      [Scattering amplitudes](https://shiva123456789100.github.io/courses/hugo-blox/)
+
+
 
 <!--more-->
