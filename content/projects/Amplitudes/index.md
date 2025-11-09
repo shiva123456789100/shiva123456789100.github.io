@@ -10,14 +10,18 @@ tags:
   - Markdown
 ---
 
-"Have u heard the birthcry of cosmos? 
-Not of light, but of trembling spacetime itself —
-the faint ripple of creation, echoing across eons,
-carrying the memory of colliding stars,
-of black holes entwined in their final dance."
+"Have u heard the birthcry of cosmos?   
+Not of light, but of trembling spacetime itself —  
+the faint ripple of creation, echoing across eons,  
+carrying the memory of colliding stars,  
+of black holes entwined in their final dance.  "
 
-Fascinated by the universe as a canvas of twinkle twinkle little stars? Ask me,  I see the universe as a living, breathing fabric one that stretches,trembles and remembers. Hard to believe, na?
-I’d love to share how a physics student looks at the cosmos — through the language of spacetime, waves, and wonder — with physicists and non-science friends alike.
+
+First observation of **gravitational waves** from a binary black hole in 2015 and hundreds of observations since then has given us new ears tuned to the silent music of spacetime, the unsung sagas of cosmos.
+
+Accurate and precise modeling of the gravitational waves emitted during merger or scattering events are essential to detect the signal and infer properties of the compact object accurately. Theoretical modeling combines both analytical(fast but approximate) and numerical (slow but accurate) techniques to analyze Einstein's field equation.
+
+In recent years, physicists have turned to Feynman-diagrammatic frameworks, bringing the ammunation of modern amplitude techniques, originally developed for precise collider scattering experiment - into the realm of gravitational physics.
 
 
 <!--more-->
