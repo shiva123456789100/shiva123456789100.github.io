@@ -34,7 +34,7 @@ In my MS thesis,with Prof. Arnab Rudra , IISER Bhopal,we are trying to address a
 2. WQFT,EFT prescriptions have been able to model the neutron star-neutron star mergers in addition to BH mergers. But , classical limit of amplitudes only have focused on minimally copuled higher spin fields till now, which gives BH scattering. So, the natural question arises what can be done to extend the framework for any general spinning compact object?
 
 
-** Want to know about amplitudes: I am creating an online course page for u, where you will carry the same journey with me**  
+**Want to know about amplitudes: I am creating an online course page for u, where you will carry the same journey with me**  
       [Scattering amplitudes](https://shiva123456789100.github.io/courses/hugo-blox/)
 
 
