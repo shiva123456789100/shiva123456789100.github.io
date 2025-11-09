@@ -31,8 +31,8 @@ Interestingly, not only black holes stars also show similar kind of modes. A rel
    
 5. **r-modes(rotational modes):**
      The r-modes (rotational) in a non-rotating star are purely toroidal (axial) modes with vanishing frequency. In a rotating star, the displacement vector acquires spheroidal components and the frequency in the rotating frame, to first order in the rotational frequency $\Omega$ of the star, becomes
-   \[\omega_{r}=\frac{2m\Omega}{\ell(\ell+1)}\]
-   all r-modes with  $ \ell\geq 2$ are generically unstable to the emission of gravitational radiation,
+   $$\omega_{r}=\frac{2m\Omega}{\ell(\ell+1)}$$
+   all r-modes with  $\ell\geq 2$ are generically unstable to the emission of gravitational radiation,
 due to the Chandrasekhar-Friedman-Schutz (CFS) mechanism.
 
 7. **w-modes(spacetime modes)**
@@ -42,14 +42,14 @@ due to the Chandrasekhar-Friedman-Schutz (CFS) mechanism.
 
   The master equation is given by
 
-\[
+$$
 \frac{d^2 \Psi_{\ell}^{s}}{dr_*^2} + \left[ \omega^2 - V_s \right] \Psi_{\ell}^{s} = 0,
-\]
+$$
 where
-\[
+$$
 V_s = f \left( \frac{\ell(\ell + 1)}{r^2} + \frac{2M(1 - s^2)}{r^3} \right)
      = f \left( \frac{\Lambda}{r^2} + \frac{2\beta}{r^3} \right).
-\]
+$$
 
    
 
