@@ -21,6 +21,9 @@ First observation of **gravitational waves** from a binary black hole in 2015 an
 
 Accurate and precise modeling of the gravitational waves emitted during merger or scattering events are essential to detect the signal and infer properties of the compact object accurately. Theoretical modeling combines both analytical(fast but approximate) and numerical (slow but accurate) techniques to analyze Einstein's field equation.
 
+![Merging black holes simulated by numerical relativity](image.png)
+
+
 In recent years, physicists have turned to Feynman-diagrammatic frameworks, bringing the ammunation of modern amplitude techniques, originally developed for precise collider scattering experiment - into the realm of gravitational physics.
 
 
