@@ -1,6 +1,7 @@
 ---
 title: MS Thesis- Gravitational physics from amplitudes
 date: 2025-11-02
+math: true
 links:
   - type: site
     url: https://github.com/pandas-dev/pandas
