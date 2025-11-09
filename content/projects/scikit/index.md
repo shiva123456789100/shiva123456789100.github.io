@@ -9,6 +9,9 @@ tags:
   - HugoBlox
   - Markdown
 ---
+“When a black hole is struck, it starts to sing.  
+Its dying echoes, are the purest notes in the symphony of spacetime.”  
+
 
 
 
