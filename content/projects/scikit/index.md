@@ -1,5 +1,5 @@
 ---
-title: GW amplitudes
+title: Quasi-normal modes of Black Holes in non-static environment
 date: 2025-11-02
 links:
   - type: site
@@ -10,6 +10,6 @@ tags:
   - Markdown
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+
 
 <!--more-->
