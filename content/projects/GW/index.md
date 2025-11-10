@@ -108,10 +108,23 @@ Interestingly, not only black holes stars also show similar kind of modes. A rel
 
 ## **Oscillation modes of star:**
 
----
+### **1.f-mode (fundamental mode):**
+   This is a surface mode that exists even in the absence of buoyancy or compressibility effects. Its frequency depends mainly on the star’s mean density and roughly scales as
+               $$\omega_f^2\approx \frac{GM}{R^3}$$
+   which, for neutron stars, corresponds to frequencies around 1–3 kHz with damping times due to gravitational radiation of about 0.1–0.3 seconds. The f-mode represents large-scale oscillations of the stellar fluid and is an efficient emitter of gravitational waves.
+
+### **2.p-mode (pressure mode or acoustic mode):**  
+ Here, pressure acts as the restoring force. These modes have higher frequencies than the f-mode and are less efficiently      damped. The oscillations are primarily  
+  confined to the star’s interior, with nodes in the radial direction. The frequency increases with the order of the mode and with the stiffness of the equation of state
+     
+    
+
+### **3.g-modes (gravity modes):**
+  In these modes, buoyancy (or gravity) provides the restoring force. They generally occur in stably stratified regions         where density gradients exist. g-modes have lower frequencies and longer periods, typically associated with thermal or        compositional gradients within the star.
 
 
----
+![QNM plots2](plot2.png)
+   
 
 
 
