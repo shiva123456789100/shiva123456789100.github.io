@@ -18,15 +18,15 @@ Its dying echoes, are the purest notes in the symphony of spacetime.”
 Perturbed black holes emit gravitational waves at very specific complex frequencies before being stabilized into ground state. These characteristics complex frequencies are known as **Quasi-Normal Modes** of black hole. The signal is called **Ringdown** signal. Ringdown signal is very important to extract information about the black hole mass, charge , angular momentum. 
 
 
- **Black Hole Perturbation Theory(BHPT)**  
+# **Black Hole Perturbation Theory(BHPT)**  
 
- **1. Introduction**  
+## **1. Introduction**  
 
  A perturbed black hole emits gravitational waves carrying information about its internal geometry. The mathematical description of these perturbations can be formulated with as set of master equations — the **Regge–Wheeler**, **Zerilli**, and **Teukolsky** equations — which govern the evolution of such perturbations in Schwarzschild and Kerr solution of Einstein field equation.
 
 
 
- **2. Regge–Wheeler Equation (Axial Perturbations)**  
+### **2. Regge–Wheeler Equation (Axial Perturbations)**  
 
 For a static (Schwarzschild) black hole, metric perturbations can be decomposed into **odd-parity (axial)** and **even-parity (polar)** parts based on their property under spatial inversion.  
 The **Regge–Wheeler equation**, derived by T. Regge and J. A. Wheeler (1957), describes the axial perturbations.  
@@ -81,7 +81,7 @@ Both \( Q_\ell \) and \( \Psi_\ell \) contain gauge-invariant information about 
 
 ---
 
-**4. Chandrasekhar Transformation**     
+### **4. Chandrasekhar Transformation**     
 
 S. Chandrasekhar (1975) discovered a remarkable transformation connecting the Regge–Wheeler and Zerilli functions, demonstrating that the two equations are **physically equivalent**. This implies that both describe the same spectrum of quasinormal modes and contribute complementary perspectives on the same physical process — the oscillations of spacetime geometry.  
 ![QNM plots](plot.png)  
@@ -90,7 +90,7 @@ S. Chandrasekhar (1975) discovered a remarkable transformation connecting the Re
 
 These equations can be solved [Leaver's method of continued fraction](https://arxiv.org/abs/1509.04260) or [WKB approximation](https://arxiv.org/abs/2503.17245).  
 
-**5. Teukolsky Equation (Kerr Perturbations)**  
+### **5. Teukolsky Equation (Kerr Perturbations)**  
 
 For **rotating (Kerr)** black holes, due to reduced symmetry , the separation into even and odd parity mode doesn't remain possible. Instead, **Teukolsky (1973)** developed a unified formalism using the **Newman–Penrose (NP)** approach, which represents gravitational fields via complex scalar quantities.  
 
@@ -108,16 +108,17 @@ The Teukolsky equation can be **separated** into radial and angular parts, leadi
 
 Interestingly, not only black holes stars also show similar kind of modes. A relativistic star can be shown to have a plethora of modes(see [Review](https://arxiv.org/abs/gr-qc/9909058)).  
 
+## **Oscillation modes of star:**
 
-1.1. *f-mode (fundamental mode):*
+### *f-mode (fundamental mode):*
    This is a surface mode that exists even in the absence of buoyancy or compressibility effects. Its frequency depends mainly on the star’s mean density and roughly scales as
                $$\omega_f^2\approx \frac{GM}{R^3}$$
    which, for neutron stars, corresponds to frequencies around 1–3 kHz with damping times due to gravitational radiation of about 0.1–0.3 seconds. The f-mode represents large-scale oscillations of the stellar fluid and is an efficient emitter of gravitational waves.
 
-2. *p-modes (pressure or acoustic modes):*
+ ### *f-mode (fundamental mode):*
      Here, pressure acts as the restoring force. These modes have higher frequencies than the f-mode and are less efficiently      damped. The oscillations are primarily confined to the star’s interior, with nodes in the radial direction. The frequency increases with the order of the mode and with the stiffness of the equation of state.
 
-3. *g-modes (gravity modes):*
+### *g-modes (gravity modes):*
      In these modes, buoyancy (or gravity) provides the restoring force. They generally occur in stably stratified regions         where density gradients exist. g-modes have lower frequencies and longer periods, typically associated with thermal or        compositional gradients within the star.
 
 
