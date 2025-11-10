@@ -156,6 +156,12 @@ $$
 M = m(R) = 4\pi \int_0^R \rho(r) r^2 dr
 $$
 
+## problem I have worked on:
+
+I, with [Prof. Rajesh Kumble Nayak](https://www.iiserkol.ac.in/~rajesh/), have focused on an interesting problem.
+
+1. If instead of considering an isolated BH, we consider a black hole embedded in a stationary spacetime background (In real world, there is isolated black hole, every black hole is in a environment) how the behavior of QNM spectra will change? Interestingly , we find one interesting application of our study in Primordial Black Hole(PBH) capture by neutron stars.
+To describe , the captured PBH in background of NS , our study can be useful.
 
 
    
