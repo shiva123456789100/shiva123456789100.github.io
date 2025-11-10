@@ -39,7 +39,7 @@ image:
 links:
   - type: code
     url: https://shiva123456789100.github.io/events/example/
-  - type: slides(coming soon)
+  - type: slides
     url: https://drive.google.com/file/d/175jN_rkE4XtLaqNBFcn2EK3Av6IZLPRs/view?usp=sharing
   - type: video
     url: https://shiva123456789100.github.io/events/example/
