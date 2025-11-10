@@ -67,6 +67,8 @@ education:
     institution : Burdwan Municipal High School
     date_start: 2008-01-01
     date_end: 2021-06-21
+    summary: |
+      Rank: secured 98.4% (492 out of 500) and ranked 8th in state West Bengal out of 0.7 million students. 
    
         
 
