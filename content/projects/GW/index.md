@@ -1,5 +1,5 @@
 ---
-title: Quasi-normal modes of Black Holes in non-static environment
+title: QNM of BH in environment
 date: 2025-11-02
 math: true
 links:
