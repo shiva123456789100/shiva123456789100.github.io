@@ -126,7 +126,35 @@ Interestingly, not only black holes stars also show similar kind of modes. A rel
 ![QNM plots2](plot2.png)
    
 
+### **4.r-modes(rotational modes):**
+   The r-modes (rotational) in a non-rotating star are purely toroidal (axial) modes with vanishing frequency. In a rotating star, the displacement vector acquires spheroidal components and the frequency in the rotating frame, to first order in the rotational frequency $\Omega$ of the star, becomes
+   $$\omega_{r}=\frac{2m\Omega}{\ell(\ell+1)}$$
+   all r-modes with  $\ell\geq 2$ are generically unstable to the emission of gravitational radiation,
+due to the Chandrasekhar-Friedman-Schutz (CFS) mechanism.
 
+### **5.w-modes(spacetime modes)**
+   The spacetime modes are perhaps the most crucial mode for all astrophysical application. These are modes are related to the spacetime curvature and exist for all relativistic star. They are higly damped modes. Damping rate is higly correlated with the compactness of star. Damping rate increases as compactness decreases. For nearly newtonian stars, it is very difficult to determine w-modes, as due to high damping numerical programs hit instability. These are very close to the quasi-normal modes.
+
+  There are also trapped modes and interference modes. 
+
+The anlysis of w-modes in relativistic stars start with analyzing spacetime through Tolman–Oppenheimer–Volkoff (TOV) equation.
+The TOV equation governs hydrostatic equilibrium in a static, spherically symmetric relativistic star:
+
+$$
+\frac{dP(r)}{dr} = -\frac{G \left[\rho(r)c^2 + P(r)\right] \left[m(r) + 4\pi r^3 P(r)/c^2\right]}{r^2 \left[1 - \frac{2Gm(r)}{r c^2}\right]},
+$$
+
+with the mass continuity relation:
+
+$$
+\frac{dm(r)}{dr} = 4\pi r^2 \rho(r)
+$$
+
+and the total gravitational mass of the star:
+
+$$
+M = m(R) = 4\pi \int_0^R \rho(r) r^2 dr
+$$
 
 
 
