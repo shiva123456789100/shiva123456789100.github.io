@@ -60,8 +60,9 @@ education:
     date_start: 2021-12-21
     date_end: 2026-06-06
     summary: |
-      GPA: 9.44 / 10
-      Focus: Physics and Computational Techniques
+      GPA: 9.44 / 10  
+      MS Thesis: “From Amplitudes to Astrophysics: A Novel Framework for Gravitational Dynamics and
+      Other Scattering Problems in Astrophysics”
       
   - area: Higher Secondary Education
     institution : Burdwan Municipal High School
