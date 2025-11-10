@@ -4,7 +4,7 @@ date: 2025-11-02
 math: true
 links:
   - type: site
-    url: https://github.com/pandas-dev/pandas
+    url: https://shiva123456789100.github.io/projects/gw/
 tags:
   - Hugo
   - HugoBlox
@@ -156,7 +156,7 @@ $$
 M = m(R) = 4\pi \int_0^R \rho(r) r^2 dr
 $$
 
-## problem I have worked on:
+## Problem I have worked on:
 
 I, with [Prof. Rajesh Kumble Nayak](https://www.iiserkol.ac.in/~rajesh/), have focused on an interesting problem.
 
