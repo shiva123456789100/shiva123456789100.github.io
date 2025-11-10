@@ -34,9 +34,14 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My main research interests lie in analytical modeling of gravitational dynamics and radiation,
+Quantum field theory and Scattering amplitudes. I am particularly interested in exploring how modern
+scattering amplitude-based techniques can be implemented to compute classical observables and
+waveforms with high precision and accuracy.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+Furthermore, my interests include developing efficient symbolic and numerical programs for highprecision
+computations in theoretical physics. I am also keen to explore higher spin quantum field
+theory and its potential application in cosmology, nuclear physics and condensed matter.
 
         Please reach out to collaborate 😃
     design:
