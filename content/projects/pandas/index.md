@@ -10,6 +10,5 @@ tags:
   - Markdown
 ---
 
-We can compute the classical observables from quantum scattering amplitude.
-
+yes we can
 <!--more-->
