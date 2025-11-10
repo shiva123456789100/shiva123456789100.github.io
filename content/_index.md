@@ -35,9 +35,9 @@ sections:
       subtitle: ''
       text: |-
         My main research interests lie in analytical modeling of gravitational dynamics and radiation,
-Quantum field theory and Scattering amplitudes. I am particularly interested in exploring how modern
-scattering amplitude-based techniques can be implemented to compute classical observables and
-waveforms with high precision and accuracy.
+        Quantum field theory and Scattering amplitudes. I am particularly interested in exploring how modern
+        scattering amplitude-based techniques can be implemented to compute classical observables and
+        waveforms with high precision and accuracy.
 
          Furthermore, my interests include developing efficient symbolic and numerical programs for highprecision
         computations in theoretical physics. I am also keen to explore higher spin quantum field
