@@ -99,16 +99,14 @@ The **Teukolsky master equation** governs perturbations of fields with arbitrary
 In Boyer–Lindquist coordinates, the equation reads:  
 
 $$
-
-&\left[\frac{(r^2 + a^2)^2}{\Delta} - a^2 \sin^2\theta\right]\frac{\partial^2 \psi_s}{\partial t^2}
+\left[\frac{(r^2 + a^2)^2}{\Delta} - a^2 \sin^2\theta\right]\frac{\partial^2 \psi_s}{\partial t^2}
 + \frac{4Mar}{\Delta}\frac{\partial^2 \psi_s}{\partial t \partial \phi}
 + \left(\frac{a^2}{\Delta} - \frac{1}{\sin^2\theta}\right)\frac{\partial^2 \psi_s}{\partial \phi^2} \\
-&- \Delta^{-s}\frac{\partial}{\partial r}\left(\Delta^{s+1}\frac{\partial \psi_s}{\partial r}\right)
+- \Delta^{-s}\frac{\partial}{\partial r}\left(\Delta^{s+1}\frac{\partial \psi_s}{\partial r}\right)
 - \frac{1}{\sin\theta}\frac{\partial}{\partial \theta}\left(\sin\theta \frac{\partial \psi_s}{\partial \theta}\right)
 - 2s\left[\frac{a(r - M)}{\Delta} + \frac{i\cos\theta}{\sin^2\theta}\right]\frac{\partial \psi_s}{\partial \phi} \\
-&- 2s\left[\frac{M(r^2 - a^2)}{\Delta} - r - i a \cos\theta \right]\frac{\partial \psi_s}{\partial t}
-+ (s^2 \cot^2\theta - s)\psi_s = 0,
-
+- 2s\left[\frac{M(r^2 - a^2)}{\Delta} - r - i a \cos\theta \right]\frac{\partial \psi_s}{\partial t}
++ (s^2 \cot^2\theta - s)\psi_s = 0
 $$
 
 where \( \Delta = r^2 - 2Mr + a^2 \), \( a \) is the black hole spin parameter, and \( \psi_s \) denotes the spin-weighted NP scalar (e.g., \( \psi_0, \psi_4 \) for gravitational waves).  
