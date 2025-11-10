@@ -39,9 +39,9 @@ Quantum field theory and Scattering amplitudes. I am particularly interested in 
 scattering amplitude-based techniques can be implemented to compute classical observables and
 waveforms with high precision and accuracy.
 
-Furthermore, my interests include developing efficient symbolic and numerical programs for highprecision
-computations in theoretical physics. I am also keen to explore higher spin quantum field
-theory and its potential application in cosmology, nuclear physics and condensed matter.
+         Furthermore, my interests include developing efficient symbolic and numerical programs for highprecision
+        computations in theoretical physics. I am also keen to explore higher spin quantum field
+        theory and its potential application in cosmology, nuclear physics and condensed matter.
 
         Please reach out to collaborate 😃
     design:
