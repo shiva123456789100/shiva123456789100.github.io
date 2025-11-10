@@ -5,10 +5,7 @@ math: true
 links:
   - type: site
     url: https://shiva123456789100.github.io/projects/gw/
-tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+
 ---
 
 “When a black hole is struck, it starts to sing.  
