@@ -79,7 +79,7 @@ work:
     date_start: 2025-05-15
     date_end: 2025-08-31
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.   
+      Quasi-normal modes of Black Holes in non-static environment. More about the project [here](https://shiva123456789100.github.io/projects/gw/)
   - position: Summer Research Intern
     company_name: Prof. Arnab Rudra, IISER Bhopal
     company_url: 'https://sites.google.com/iiserb.ac.in/rudra/home'
@@ -87,7 +87,7 @@ work:
     date_start: 2024-05-15
     date_end: 2024-08-22
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Topology and geometry in QM and Anomalies in QFT. More about the project[here]()
   - position: NIUS physics
     company_name: Prof. Manorajan p.Singh, RRCAT, Indore
     company_url: 'https://www.rrcat.gov.in/index_eng.html'
@@ -95,7 +95,7 @@ work:
     date_start: 2023-05-10
     date_end: 2024-01-14
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Travelling Salesman Problem in Hopfield neural network. More about the project [here]()
   - position: Summer Student 
     company_name: Prof. Amitava RayChaudhari
     company_url: 'https://en.wikipedia.org/wiki/Amitava_Raychaudhuri'
@@ -103,7 +103,7 @@ work:
     date_start: 2023-04-10
     date_end: 2023-08-14
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Neutrino Oscillation:Theory and Observation. More about the project [here]()
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
