@@ -29,13 +29,13 @@ Perturbed black holes emit gravitational waves at very specific complex frequenc
 For a static (Schwarzschild) black hole, metric perturbations can be decomposed into **odd-parity (axial)** and **even-parity (polar)** parts based on their property under spatial inversion.  
 The **Regge–Wheeler equation**, derived by T. Regge and J. A. Wheeler (1957), describes the axial perturbations.  
 
-The expression for the Regge–Wheeler function \( Q_\ell(t, r) \) is  
+The expression for the Regge–Wheeler function $Q_\ell(t, r)$ is  
 
 $$
 \frac{\partial^2 Q_\ell}{\partial t^2} - \frac{\partial^2 Q_\ell}{\partial r_*^2} + V_{\text{RW}}(r) Q_\ell = 0,
 $$
 
-where the **tortoise coordinate** \( r_* \) is defined by  
+where the **tortoise coordinate** $r_*$ is defined by  
 
 $$
 \frac{dr_*}{dr} = \frac{1}{1 - \frac{2M}{r}},
