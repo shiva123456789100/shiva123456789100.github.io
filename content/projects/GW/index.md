@@ -153,7 +153,7 @@ $$
 M = m(R) = 4\pi \int_0^R \rho(r) r^2 dr
 $$
 
- *TOV and computation of \( w \)-Modes*
+ **TOV and computation of \( w \)-Modes**
 
 After computing the *background spacetime* of a star from TOV equation, it can be *perturbed* to study the oscillations.
 The resulting *perturbation equations* (often Regge-Wheeler-Zerilli-type) describe how spacetime ringdown happens
