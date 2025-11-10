@@ -57,7 +57,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: '🧠 Research  Coding Projects'
+      title: '🧠 Research  Projects'
       subtitle: ''
       text: 'A selection of my recent research, computational, and collaborative projects.'
       filters:
