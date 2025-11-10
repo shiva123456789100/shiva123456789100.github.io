@@ -1,24 +1,24 @@
 ---
-title: Example Talk
+title: Markov Chain Monte Carlo (MCMC) Simulation
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Slashdot, Coding and designing club, IISER Kolkata
+event_url: https://calendar.iiserkol.ac.in/view_event/1854805/
 
-location: Hugo Blox Builder HQ
+location: Asima Chatterjee Lecture Hall
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: IISER Kolkata
+  city: Mohanpur
+  region: West Bengal
+  postcode: '741246'
+  country: India
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: MCMC Simulations 🎯Exploring the Theory, Implementation, and Research Applications
+abstract: 'Foundations of Markov Chains and Monte Carlo methods,Understanding the Metropolis-Hastings algorithm,Python implementation of simple MCMC routines,Applications of MCMC in real research problems,Interactive code walk-through and discussion'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-11-08T14:00:00Z'
+date_end: '2025-11-08T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -33,16 +33,16 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: Slashdot'
   focal_point: Right
 
 links:
-  - type: code
-    url: https://github.com
-  - type: slides
-    url: https://slideshare.net
-  - type: video
-    url: https://youtube.com
+  - type: code(coming soon)
+    url: https://shiva123456789100.github.io/events/example/
+  - type: slides(coming soon)
+    url: https://shiva123456789100.github.io/events/example/
+  - type: video(Coming soon)
+    url: https://shiva123456789100.github.io/events/example/
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -63,10 +63,4 @@ projects:
 > [!NOTE]
 > Click on the **Slides** button above to view the built-in slides feature.
 
-Slides can be added in a few ways:
 
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using the `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to this page bundle and link it using `links: [{ type: slides, url: path/to/file } ]` in front matter
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
