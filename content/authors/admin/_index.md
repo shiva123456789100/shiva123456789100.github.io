@@ -115,15 +115,15 @@ skills:
   - name: Technical Skills
     items:
       - name: Python 
-        description: 'Proficient in numerical computing'
+        description: 'Experienced in Astropy,SymPy,NumPy,Matplotlib,Tensorflow,SciPy,Scikit-learn,cobaya,emcee.Proficient in Image analysis, data analysis, Machine learning, MCMC simulations'
         percent: 100
         icon: code-bracket
       - name: Mathematica
-        description: 'Proficient in tensor manipulations'
+        description: 'Adept in using Xperm, FeynCalc, XTensor. Experienced with tensor manipulations, generating Feynman diagrams, PV reduction of loop integrals '
         percent: 90
         icon: chart-bar
       - name: Matlab
-        description: 'Proficent in big-data handling'
+        description: 'Experienced in data handling, wavelet analysis and signal processing.'
         percent: 90
         icon: cloud
   - name: Hobbies
@@ -131,15 +131,15 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Badminton
-        description: 'Participated in auction tournaments'
+        description: 'Participated in college-level auction tournaments'
         percent: 80
         icon: person-simple-walk
       - name: Anime and Manga
-        description: 'Just love to read manga'
+        description: 'Bleach, Jujutsu Kaisen, Naruto, Demon Slayer'
         percent: 90
         icon: cpu-chip
       - name: Classic Literature
-        description: 'Classical literatures are always my favourite'
+        description: 'Harry Potter, Percy Jackson, A song of Ice and Fire'
         percent: 70
         icon: book-open
 
