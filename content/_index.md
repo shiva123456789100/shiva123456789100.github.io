@@ -55,6 +55,23 @@ sections:
     design:
       view: card
   - block: collection
+    id: projects
+    content:
+      title: '🧠 Research  Coding Projects'
+      subtitle: ''
+      text: 'A selection of my recent research, computational, and collaborative projects.'
+      filters:
+        folders:
+          - projects
+        exclude_featured: false
+      count: 6
+      order: desc
+    design:
+      view: card
+      columns: 2
+      spacing:
+        padding: [0, 0, 0, 0]
+  - block: collection
     id: news
     content:
       title: Recent News
