@@ -182,4 +182,4 @@ awards:
 ---
 
 
-Hi,Welcome to my webiste. I am Shibashis Mukhopadhyay , final year undergrad student from IISER Kolkata. 
+Hi, Welcome to my website. I am Shibashis Mukhopadhyay , final year undergrad student from IISER Kolkata. 
