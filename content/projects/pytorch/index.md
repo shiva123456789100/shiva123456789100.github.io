@@ -52,6 +52,11 @@ If $\alpha > \text{rand}(0,1)$, the new sample $\theta'$ is accepted; otherwise,
 ##  Grid and Sampling Techniques
 Earlier grid-based integrations suffered from the **curse of dimensionality** — computational costs growing exponentially with the number of parameters.  
 MCMC overcomes this by sampling **only** the regions of high posterior probability, leading to more efficient estimation.
+![MCMC chain evolution](featured2.png)
+
+
+
+
 
 Improved convergence techniques use **Effective Sample Size (ESS)** and **adaptive proposals** to speed up convergence (see [Kish, 1965](https://en.wikipedia.org/wiki/Effective_sample_size)).
 
