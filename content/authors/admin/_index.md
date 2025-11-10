@@ -115,7 +115,9 @@ skills:
   - name: Technical Skills
     items:
       - name: Python 
-        description: 'Experienced in Astropy,SymPy,NumPy,Matplotlib,Tensorflow,SciPy,Scikit-learn,cobaya,emcee.Proficient in Image analysis, data analysis, Machine learning, MCMC simulations'
+        description: 'Experienced in Astropy,SymPy,NumPy,Matplotlib,Tensorflow,
+        SciPy,Scikit-learn,cobaya,emcee.Proficient in Image analysis, data analysis, Machine learning,
+         MCMC simulations'
         percent: 100
         icon: code-bracket
       - name: Mathematica
