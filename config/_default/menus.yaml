@@ -22,6 +22,4 @@ main:
   - name: Courses
     url: courses/
     weight: 20
-  - name: Papers
-    url: /#papers
-    weight: 40
+
