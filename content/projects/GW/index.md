@@ -115,23 +115,26 @@ Interestingly, not only black holes stars also show similar kind of modes. A rel
                $$\omega_f^2\approx \frac{GM}{R^3}$$
    which, for neutron stars, corresponds to frequencies around 1–3 kHz with damping times due to gravitational radiation of about 0.1–0.3 seconds. The f-mode represents large-scale oscillations of the stellar fluid and is an efficient emitter of gravitational waves.
 
- ### *f-mode (fundamental mode):*
-     Here, pressure acts as the restoring force. These modes have higher frequencies than the f-mode and are less efficiently      damped. The oscillations are primarily confined to the star’s interior, with nodes in the radial direction. The frequency increases with the order of the mode and with the stiffness of the equation of state.
+ ### *p-mode (pressure mode or acoustic mode):*  
+ Here, pressure acts as the restoring force. These modes have higher frequencies than the f-mode and are less efficiently      damped. The oscillations are primarily  
+  confined to the star’s interior, with nodes in the radial direction. The frequency increases with the order of the mode and with the stiffness of the equation of state
+     
+    
 
 ### *g-modes (gravity modes):*
-     In these modes, buoyancy (or gravity) provides the restoring force. They generally occur in stably stratified regions         where density gradients exist. g-modes have lower frequencies and longer periods, typically associated with thermal or        compositional gradients within the star.
+  In these modes, buoyancy (or gravity) provides the restoring force. They generally occur in stably stratified regions         where density gradients exist. g-modes have lower frequencies and longer periods, typically associated with thermal or        compositional gradients within the star.
 
 
 ![QNM plots2](plot2.png)
    
-5. *r-modes(rotational modes):*
-     The r-modes (rotational) in a non-rotating star are purely toroidal (axial) modes with vanishing frequency. In a rotating star, the displacement vector acquires spheroidal components and the frequency in the rotating frame, to first order in the rotational frequency $\Omega$ of the star, becomes
+### *r-modes(rotational modes):*
+   The r-modes (rotational) in a non-rotating star are purely toroidal (axial) modes with vanishing frequency. In a rotating star, the displacement vector acquires spheroidal components and the frequency in the rotating frame, to first order in the rotational frequency $\Omega$ of the star, becomes
    $$\omega_{r}=\frac{2m\Omega}{\ell(\ell+1)}$$
    all r-modes with  $\ell\geq 2$ are generically unstable to the emission of gravitational radiation,
 due to the Chandrasekhar-Friedman-Schutz (CFS) mechanism.
 
-7. *w-modes(spacetime modes)*
-    The spacetime modes are perhaps the most crucial mode for all astrophysical application. These are modes are related to the spacetime curvature and exist for all relativistic star. They are higly damped modes. Damping rate is higly correlated with the compactness of star. Damping rate increases as compactness decreases. For nearly newtonian stars, it is very difficult to determine w-modes, as due to high damping numerical programs hit instability. These are very close to the quasi-normal modes.
+### *w-modes(spacetime modes)*
+   The spacetime modes are perhaps the most crucial mode for all astrophysical application. These are modes are related to the spacetime curvature and exist for all relativistic star. They are higly damped modes. Damping rate is higly correlated with the compactness of star. Damping rate increases as compactness decreases. For nearly newtonian stars, it is very difficult to determine w-modes, as due to high damping numerical programs hit instability. These are very close to the quasi-normal modes.
 
   There are also *trapped modes* and *interference modes*. 
 
@@ -154,17 +157,18 @@ $$
 M = m(R) = 4\pi \int_0^R \rho(r) r^2 dr
 $$
 
- **TOV and computation of \( w \)-Modes**
+ ## **TOV and computation of $w$-Modes**
 
 After computing the *background spacetime* of a star from TOV equation, it can be *perturbed* to study the oscillations.
 The resulting *perturbation equations* (often Regge-Wheeler-Zerilli-type) describe how spacetime ringdown happens
 
 
 
-
-
 ---
+I, with [*Prof. Rajesh Kumble Nayak*](https://www.iiserkol.ac.in/~rajesh/), have focused on an interesting problem.
 
+1. If instead of considering an isolated BH, we consider a black hole embedded in a stationary spacetime background (In real world, there is isolated black hole, every black hole is in a environment) how the behavior of QNM spectra will change? Interestingly , we find one interesting application of our study in Primordial Black Hole(PBH) capture by neutron stars.
+To describe , the captured PBH in background of NS , our study can be useful.
 
 
 ---
