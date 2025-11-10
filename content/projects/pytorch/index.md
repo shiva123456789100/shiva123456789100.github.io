@@ -1,7 +1,7 @@
 ---
 title: Parameter Estimation in Hydrogen 21-cm Cosmology and MCMC Simulation
 date: 2023-10-26
-
+math: true
 
 ---
 
