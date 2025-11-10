@@ -120,7 +120,7 @@ Interestingly, not only black holes stars also show similar kind of modes. A rel
      
     
 
-### **g-modes (gravity modes):**
+### **3.g-modes (gravity modes):**
   In these modes, buoyancy (or gravity) provides the restoring force. They generally occur in stably stratified regions         where density gradients exist. g-modes have lower frequencies and longer periods, typically associated with thermal or        compositional gradients within the star.
 
 
@@ -132,7 +132,7 @@ Interestingly, not only black holes stars also show similar kind of modes. A rel
    all r-modes with  $\ell\geq 2$ are generically unstable to the emission of gravitational radiation,
 due to the Chandrasekhar-Friedman-Schutz (CFS) mechanism.
 
-### **w-modes(spacetime modes)**
+### **4.w-modes(spacetime modes)**
    The spacetime modes are perhaps the most crucial mode for all astrophysical application. These are modes are related to the spacetime curvature and exist for all relativistic star. They are higly damped modes. Damping rate is higly correlated with the compactness of star. Damping rate increases as compactness decreases. For nearly newtonian stars, it is very difficult to determine w-modes, as due to high damping numerical programs hit instability. These are very close to the quasi-normal modes.
 
   There are also *trapped modes* and *interference modes*. 
