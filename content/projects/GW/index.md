@@ -1,5 +1,5 @@
 ---
-title: "Topology and geometry in QM and Anomalies in QFT"
+title: "Geometry and topology in QM and Anomalies in QFT"
 date: 2025-11-02
 math: true
 links:
