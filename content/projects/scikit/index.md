@@ -4,6 +4,7 @@ date: 2025-11-02
 math: true
 links:
   - type: Notes
+    name: "Notes"
     url: https://drive.google.com/file/d/1k8H2WpGJUPmlmi9raFfveAMbEYOrdcOo/view?usp=sharing
 
 ---
