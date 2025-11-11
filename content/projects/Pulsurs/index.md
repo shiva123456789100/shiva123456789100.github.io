@@ -61,6 +61,8 @@ $$
 
 ---
 
+![Here](featured2.png)
+
 ##  Measuring the Pulsar’s Time Period
 After applying **dedispersion** (to align the frequency channels), we stacked the pulses and fitted each with Gaussian profiles.  
 Plotting arrival time versus pulse number yielded a linear fit whose slope corresponds to the pulsar’s rotation period:
