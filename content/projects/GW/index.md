@@ -31,7 +31,7 @@ Here PO is the projection-valued-measure associated to the self-adjoint operator
 
    
   Now, the power of this approach lies in the analysis of entangled states. $\mathcal{CP}^{N}\bigotimes\mathcal{CP}^{M}$ can be shown (I independently was able to do the proof, click on the link on top of the page to see notes) as **Segre embedded** manifold of $\mathcal{CP}^{N+M-1}$.  
-
+![Non-abelian chiral anomaly](featured2.png)
 
   Symmetry groups are another interesting hunting ground of geoemtry in physics. Weinberg QFT vol-I's 2nd chapter is a **MUST** for anyone who wants to understand the power of symmetry. We, in this project started our exploration with the difference between classical symmetry group and quantum symmetry group.  
 
@@ -43,7 +43,7 @@ The group extension becomes an important tool analyze anomolies in QFT. There ar
 symmetry group or symmetry group of the lagrangian as there are two expected to be conserved current i.e. axial current and vector current. But , in quantum symmetry group, we  observe that $U_A(1)$ is no more a symmetry after quantisation.
 
 This was **Abelian chiral gauge anomaly**. There are also **Non-abelian chiral gauge anomalies**. See the figure below.
-
+![Non-abelian chiral anomaly](featured4.png)
 
 2.**'t Hooft Anomaly:** ’t Hooft anomaly is said to be the obstruction that doesnot allow the global symmetry G to be realised as the local gauge transformation. Consider a QFT theory $\mathbf{T}$ with Global Symmetry(Symmetry of lagrangian) group G coupled with background G-gauge field A.  
 Now, we say that $\mathbf{T}$ has a ’t Hooft anomaly if and only if
