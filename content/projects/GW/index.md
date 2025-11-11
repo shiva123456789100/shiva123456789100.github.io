@@ -36,7 +36,7 @@ Here PO is the projection-valued-measure associated to the self-adjoint operator
   Symmetry groups are another interesting hunting ground of geoemtry in physics. Weinberg QFT vol-I's 2nd chapter is a **MUST** for anyone who wants to understand the power of symmetry. We, in this project started our exploration with the difference between classical symmetry group and quantum symmetry group.  
 
   The symmetry group of lagrnagian is called classical symmetry group and when that symmetry trnasformations are represented by unitary operator , that gives birth to quantum symmetry group. For example, Dirac lagrangian and Dirac equation is invariant of classical rotation. The classical symmetry group related to rotation is just $SO(3)$. But, when rotation is represented by unitary operator parametrized by $\theta$, then the quantum symmetry group becomes $SU(2)$. This can be studied by **group extensions**.(see notes for more).
-
+![Non-abelian chiral anomaly](featured6.png)
 
 The group extension becomes an important tool analyze anomolies in QFT. There are two types of anomalies in QFT  
 1. **ABJ anomaly:** This happens when classical symmetry group after quantisation  no more remains as a symmetry .For example,classical EM field coupled with massless Dirac spinors, $$U_V(1)\times U_A(1)$$ is the global
