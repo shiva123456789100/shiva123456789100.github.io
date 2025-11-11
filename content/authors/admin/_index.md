@@ -34,18 +34,18 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: solid/envelope
+  - icon: envelope
+    icon_pack: fas
     url: mailto:shibashismukhopadhyay@gmail.com
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
+
+  - icon: github
+    icon_pack: fab
     url: https://github.com/shiva123456789100
-  - icon: brands/linkedin
+
+  - icon: linkedin
+    icon_pack: fab
     url: https://www.linkedin.com/in/shibashis-mukhopadhyay-5b665b235/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+
 
 interests:
   - QFT(Quantum Field Theory)
