@@ -1,5 +1,5 @@
 ---
-title: MS Thesis- Gravitational physics from amplitudes
+title: Amplitudes to Gravitational Physics: MS Thesis
 date: 2025-11-02
 math: true
 links:
