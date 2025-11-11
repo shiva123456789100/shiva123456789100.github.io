@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shibashis Mukhopadhyay
+title: "Shibashis Mukhopadhyay"
 
 
 # Name pronunciation (optional)
