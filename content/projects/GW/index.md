@@ -1,5 +1,5 @@
 ---
-title: QNM of BH in environment
+title: BH in environment: How it rings in background
 date: 2025-11-02
 math: true
 links:
