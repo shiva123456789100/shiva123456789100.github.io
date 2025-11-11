@@ -96,7 +96,7 @@ there are mysteries that have defied our attempts to unravel, the poem that only
 
 ##  **My Project:**
 
-In this project, I explored many potential mechanisms for neutrino oscillation and ongoing experiments to decipher the mystery of neutrino oscillation.
+In this project, I explored many potential mechanisms for neutrino oscillation and ongoing experiments to decipher the mystery of neutrino oscillation. There are some excellent reviews available on the topic [https://arxiv.org/abs/hep-ph/9906244](https://arxiv.org/abs/hep-ph/9906244), [https://journals.aps.org/prd/abstract/10.1103/PhysRevD.24.110](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.24.110).
 > *“We are not observing disappearance — we are witnessing transformation.”*
 
 ---
