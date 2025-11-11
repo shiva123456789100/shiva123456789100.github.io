@@ -1,7 +1,7 @@
 ---
-title: Customizing Hugo
-linkTitle: Customization
+title: "Lecture Notes"
+linkTitle: "Lecture Notes"
 weight: 1
 ---
 
-View the full docs at https://docs.hugoblox.com/getting-started/customize/
+I will post interesting review articles, lecture notes here.
