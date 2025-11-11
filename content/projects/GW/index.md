@@ -24,7 +24,7 @@ The story starts with the space of density matrix and Dirac-Von Neumann axioms o
 Here PO is the projection-valued-measure associated to the self-adjoint operator O by the spectral theorem.
 
    Every quantum state can be effectively represented by a density operator and the space of pure states $\rho^2=\rho$ can be shown to be isomorphic to $\mathcal{CP}^{N-1}$. This projective space can be shown to support an inetersting metric **Fubini-Study metric**. This metric also can be shown to be equivalent to overlap functions we used in quantum mechanics. This $\mathcal{CP}^{N}$ is Kahler and symplectic manifold.  
-
+![Non-abelian chiral anomaly](featured7.png)
    
    The Fubini-study metric can be shown to be equivalent to **Fisher-Rao metric** in statistical probability theory. The distance between two density operators $\rho_1$ and $\rho_2$ can be written as  
    $$D(1,2) = \frac{1}{2} Tr(\rho_1-\rho_2)^2 $$  
