@@ -1,5 +1,5 @@
 ---
-title: Time Period and Distance estimation of the Vela Pulsar
+title: Distance and time period estimation of the Vela Pulsar
 date: 2025-11-02
 math: true
 links:
