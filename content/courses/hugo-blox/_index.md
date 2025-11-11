@@ -1,6 +1,6 @@
 ---
 linkTitle: Scattering amplitude
-title: Learn Amplitudes
+title: Amplitude Olympics
 date: 2025-09-24
 type: docs
 
@@ -11,11 +11,11 @@ tags:
 content_meta:
   content_type: 'Course'
   difficulty: 'Beginner'
-  prerequisites: ['Markdown']
-  trending: false
+  prerequisites: ['Undergrad physics']
+  trending: true
 ---
 
-👋 Welcome to the reign of amplitude. Ready to learn more?
+👋 Welcome to the  world of amplitude. Ready to learn more?
 
 <!--more-->
 
