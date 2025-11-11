@@ -52,8 +52,14 @@ I can recommend some books and notes you can refer , but as I suggested it's now
    -[Prof. Ashoke Sen](https://www.hri.res.in/~sen/QFT1_lectures.pdf)  
    -[Prof. Arnab Rudra](https://sites.google.com/iiserb.ac.in/rudra/teaching/quantum-field-theory-i)  
 3. **Online Lectures:**
-   -Prof. Hong Liu [MITOpencourseware](https://ocw.mit.edu/courses/8-323-relativistic-quantum-field-theory-i-spring-2023/)  
-4.  **Problem Sets:**
+   -##  Quantum Field Theory by Prof. Hong Liu
+   
+{{< youtube -P2opzekpX8 >}}
+
+🎥 [Full Playlist Here](https://www.youtube.com/watch?v=-P2opzekpX8&list=PLUl4u3cNGP61AV6bhf4mB3tCyWQrI_uU5)
+
+     
+5.  **Problem Sets:**
    
 
  Interestingly , choosing QFT book is equivalent to choosing what field you may like in future. All the books carry a different perspective of not only the author but also the field at which author is working. For example, out of all the above listed books , I found **peskin** the easiest to follow. With nice exercises, the book is excellent for someone who wants to gain expertize in scattering amplitude computation. And **you know** I am doing that right now!! I know guys who liked **Shankar** , they work on field theoretic aspects of condensed matter. **Weinberg's** excellent three-volume epic is for someone who wants to explore **Why QFT** instead of **How QFT**.  I have only read first 2 chapters of this book. 
