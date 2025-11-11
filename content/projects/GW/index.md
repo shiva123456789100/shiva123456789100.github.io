@@ -39,8 +39,11 @@ Here PO is the projection-valued-measure associated to the self-adjoint operator
 
 
 The group extension becomes an important tool analyze anomolies in QFT. There are two types of anomalies in QFT  
-1. **ABJ anomaly:** This happens when classical symmetry group after quantisation  no more remains as a symmetry .For classical EM field coupled with massless Dirac spinors, $$U_V(1)\times U_A(1)$$ is the global
+1. **ABJ anomaly:** This happens when classical symmetry group after quantisation  no more remains as a symmetry .For example,classical EM field coupled with massless Dirac spinors, $$U_V(1)\times U_A(1)$$ is the global
 symmetry group or symmetry group of the lagrangian as there are two expected to be conserved current i.e. axial current and vector current. But , in quantum symmetry group, we  observe that $U_A(1)$ is no more a symmetry after quantisation.
+
+This was **Abelian chiral gauge anomaly**. There are also **Non-abelian chiral gauge anomalies**. See the figure below.
+
 
 2.**'t Hooft Anomaly:** ’t Hooft anomaly is said to be the obstruction that doesnot allow the global symmetry G to be realised as the local gauge transformation. Consider a QFT theory $\mathbf{T}$ with Global Symmetry(Symmetry of lagrangian) group G coupled with background G-gauge field A.  
 Now, we say that $\mathbf{T}$ has a ’t Hooft anomaly if and only if
