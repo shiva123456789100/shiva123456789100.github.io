@@ -50,6 +50,7 @@ profiles:
 
 interests:
   - QFT(Quantum Field Theory)
+  - Gravitational physics
   - Astrophysics and Cosmology
   - Mathematical Physics
   - Computational Physics
