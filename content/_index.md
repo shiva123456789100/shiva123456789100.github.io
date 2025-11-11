@@ -54,15 +54,7 @@ sections:
           - events
     design:
       view: card
-  - block: collection
-    id: courses
-    content:
-      title: My QFT 
-      filters:
-        folders:
-          - courses/hugo-blox
-    design:
-      view: card 
+  
   - block: collection
     id: projects
     content:
