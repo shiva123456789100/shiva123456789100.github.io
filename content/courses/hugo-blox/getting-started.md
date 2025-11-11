@@ -14,8 +14,8 @@ type: docs
 [Goldstein](https://www.amazon.in/Classical-Mechanics-Herbert-Goldstein/dp/8131758915) is a good book to cover all the aspects of classical mechanics. I find Landau-Liftshitz's ["The Classical theory of fields"](https://www.amazon.in/Classical-Theory-Fields-Theoretical-Physics/dp/0750627689) very intriguing, as it presents electrodynamics and GR from a classical field theory approach. [Jackson](https://www.amazon.in/s?k=jackson+electrodynamics&ref=nb_sb_noss) is also a good book for electrodynamics.  
 
 **The most crucial assets for path ahead (kind of prerequisites)** ---  
--*Green's function*
--*Lienard Wiechert potential and Electromagntic radiation*
+-*Green's function*  
+-*Lienard Wiechert potential and Electromagntic radiation*  
 
 
 ### Next step is quantization: From classical to quantum 
@@ -27,10 +27,10 @@ Begin the journey with the book written by God of quantum mechanics, [Paul Dirac
 For practising problems, I would recommend start with [Griffiths](https://www.amazon.in/INTRODUCTION-QUANTUM-MECHANICS-David-Griffiths/dp/B0CJ7YLFH5). The problems in this text has been marked according to their difficulty level, hence very nice book to build up your muscles. Then you can see [Sakurai](https://www.amazon.in/Modern-Quantum-Mechanics-J-Sakurai/dp/1108422411), [Shankar](https://www.amazon.in/s?k=shankar+quantum+mechanics&ref=nb_sb_noss). 
 
 **Pre-requisites for next step:** ---  
--*Canonical quantization*
--*Hydrogen atom: Quantum mechanical model*
--*Time dependent and independent perturbation theory*
--*Scattering theory: Born approximation*
+-*Canonical quantization*  
+-*Hydrogen atom: Quantum mechanical model*  
+-*Time dependent and independent perturbation theory*  
+-*Scattering theory: Born approximation*  
 
 
 
@@ -43,16 +43,16 @@ Most important challenge for a learner in this step **CHOOSE YOUR BOOK**. All cl
 I can recommend some books and notes you can refer , but as I suggested it's now upto you to pick up your **Astra**. When you choose one particular book, please stick to it untill you think you can grasp the idea and do the computations.
 
 1. **Books**
-   -[Peskin and Schroeder](https://www.amazon.in/Introduction-Quantum-Theory-Frontiers-Physics/dp/0201503972)
-   -[Matthew D. Schwartz](https://www.amazon.in/s?k=Quantum+Field+Theory+and+the+Standard+Model&i=stripbooks&ref=nb_sb_noss)
-   -[Shankar](https://www.amazon.in/Quantum-Field-Theory-Condensed-Matter/dp/0521592100)
+   -[Peskin and Schroeder](https://www.amazon.in/Introduction-Quantum-Theory-Frontiers-Physics/dp/0201503972)  
+   -[Matthew D. Schwartz](https://www.amazon.in/s?k=Quantum+Field+Theory+and+the+Standard+Model&i=stripbooks&ref=nb_sb_noss)  
+   -[Shankar](https://www.amazon.in/Quantum-Field-Theory-Condensed-Matter/dp/0521592100)  
 2. **Notes**
-   -[David Tong](https://www.damtp.cam.ac.uk/user/tong/qft.html)
-   -[Prof. N. Beisert](https://people.phys.ethz.ch/~nbeisert/lectures/QFT1-19HS-Notes.pdf)
-   -[Prof. Ashoke Sen](https://www.hri.res.in/~sen/QFT1_lectures.pdf)
-   -[Prof. Arnab Rudra](https://sites.google.com/iiserb.ac.in/rudra/teaching/quantum-field-theory-i)
+   -[David Tong](https://www.damtp.cam.ac.uk/user/tong/qft.html)  
+   -[Prof. N. Beisert](https://people.phys.ethz.ch/~nbeisert/lectures/QFT1-19HS-Notes.pdf)  
+   -[Prof. Ashoke Sen](https://www.hri.res.in/~sen/QFT1_lectures.pdf)  
+   -[Prof. Arnab Rudra](https://sites.google.com/iiserb.ac.in/rudra/teaching/quantum-field-theory-i)  
 3. **Online Lectures:**
-   -Prof. Hong Liu [MITOpencourseware](https://ocw.mit.edu/courses/8-323-relativistic-quantum-field-theory-i-spring-2023/)
+   -Prof. Hong Liu [MITOpencourseware](https://ocw.mit.edu/courses/8-323-relativistic-quantum-field-theory-i-spring-2023/)  
 4.  **Problem Sets:**
    
 
