@@ -8,9 +8,9 @@ links:
 
 ---
 
-# 🚀 **Estimating Distance and Time Period of the Vela Pulsar**
+#  **Estimating Distance and Time Period of the Vela Pulsar**
 
-## 🌌 Overview
+##  Overview
 This was an interesting project at space-Astronomy course. I had Kaustav Roy, Krishnabh Dutta Nandy an Nishant Pradeep Deo in my group. This project explores how raw voltage data from the **Ooty Radio Telescope (ORT)** can be transformed into astrophysical insights about the **Vela Pulsar** — one of the brightest and closest pulsars to Earth. It was my first experience in extensive data handling and analysis techniques.
 
 
@@ -18,7 +18,7 @@ From noisy voltage samples to clean pulsar profiles, we went through every step:
 
 ---
 
-## ⚙️ Signal Statistics
+##  Signal Statistics
 We first studied the **voltage data** from the telescope’s North and South apertures.  
 As each voltage sample is the sum of many independent signals, the distribution follows a **Gaussian** form:
 
@@ -30,14 +30,14 @@ Squaring the voltage gives the **power signal**, which follows an **exponential*
 
 ---
 
-## 🎵 Frequency Domain Analysis
+##  Frequency Domain Analysis
 Using **Fast Fourier Transform (FFT)**, we explored the signal in frequency space (16.5 MHz bandwidth).  
 Peaks in the power spectrum revealed both legitimate features and **Radio Frequency Interference (RFI)**.  
 After detrending and time-averaging, we constructed the **dynamic spectrum**, where pulse arrival times clearly depend on frequency — a direct signature of **interstellar dispersion**.
 
 ---
 
-## 🌠 Estimating the Dispersion Measure (DM)
+##  Estimating the Dispersion Measure (DM)
 Because radio waves at lower frequencies travel slower through the ionized interstellar medium, their arrival time is delayed.  
 The relationship between time delay and frequency is given by:
 
@@ -61,7 +61,7 @@ $$
 
 ---
 
-## 🕒 Measuring the Pulsar’s Time Period
+##  Measuring the Pulsar’s Time Period
 After applying **dedispersion** (to align the frequency channels), we stacked the pulses and fitted each with Gaussian profiles.  
 Plotting arrival time versus pulse number yielded a linear fit whose slope corresponds to the pulsar’s rotation period:
 
@@ -73,12 +73,12 @@ This matches closely with literature values, validating our numerical data analy
 
 ---
 
-## 📈 Summary of Results we achieved:
-| Quantity | Estimated Value | Literature Value | Notes |
-|-----------|----------------|------------------|-------|
-| Dispersion Measure (DM) | 72.77 ± 0.74 pc/cm³ | 67 pc/cm³ | Slight deviation due to noise and short observation |
-| Time Period (T) | 76.29 ± 0.74 ms | 89.33 ms | Within expected range |
-| Distance (d) | 2.18 ± 0.24 kpc | ~1 kpc | Depends on assumed electron density |
+##  Summary of Results we achieved:
+| Quantity | Estimated Value | Literature Value |
+|-----------|----------------|------------------
+| Dispersion Measure (DM) | 72.77 ± 0.74 pc/cm³ | 67 pc/cm³ |
+| Time Period (T) | 76.29 ± 0.74 ms | 89.33 ms |
+| Distance (d) | 2.18 ± 0.24 kpc | ~1 kpc |
 
 
 
