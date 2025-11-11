@@ -5,7 +5,7 @@ weight: 1
 type: docs
 ---
 
-## Quick Start from Classical physics and Quantum mechanics
+## Quick Start from Classical physics and Quantum mechanics  
 
 {{% steps %}}
 
