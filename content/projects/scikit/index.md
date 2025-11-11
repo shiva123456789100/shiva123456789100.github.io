@@ -60,6 +60,8 @@ physicists have chased these elusive transitions.
   The shimmering light of Cherenkov rings revealed that atmospheric neutrinos  
   vanish and reappear — the first definitive proof of oscillations.
 
+
+
 - **Hyper-Kamiokande (Japan):**
      A massive, next-generation neutrino observatory under construction in Japan, designed to be a successor to the Super-
    Kamiokande experiment.
@@ -82,6 +84,8 @@ physicists have chased these elusive transitions.
 
 - **IceCube Neutrino observatory**
    First detector of its kind, designed to observe the cosmos from deep within the South Pole icesheet. Currently under construction.
+
+  ![IceCube](featured2.png)
 ---
 
 ##  **Mystery Yet Unsolved**
