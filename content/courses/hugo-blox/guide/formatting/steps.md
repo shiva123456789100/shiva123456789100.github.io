@@ -1,5 +1,5 @@
 ---
-title: "Geometry and mathematics of amplitudes"
+title: "Strings, geometry and mathematics of amplitudes"
 
 ---
 
