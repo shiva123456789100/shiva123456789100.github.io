@@ -1,6 +1,6 @@
 ---
-title: Courses
-summary: My courses
+title: Scattering amplitude and QFT
+summary: Quantum Field Theory
 type: landing
 
 cascade:
