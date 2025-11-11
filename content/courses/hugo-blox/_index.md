@@ -26,5 +26,5 @@ I am posting my personal guideline for a newcomer in QFT or amplitudes. I wish s
 ## Next
 
 {{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Start your journey to the world of QFT!" >}}
+  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="CLICK HERE to start your journey to the world of QFT!" >}}
 {{< /cards >}}
