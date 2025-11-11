@@ -1,13 +1,12 @@
 ---
-title: Formatting
+title: "Scattering amplitudes"
 ---
 
-Write rich, engaging content with Markdown and re-usable Hugo Blox components (shortcodes):
 
 {{< cards >}}
-  {{< card url="button" title="Button" icon="cursor-arrow-rays" >}}
-  {{< card url="callout" title="Callout" icon="warning" >}}
-  {{< card url="cards" title="Cards" icon="card" >}}
-  {{< card url="toggle" title="Spoiler" icon="chevron-right" >}}
-  {{< card url="steps" title="Steps" icon="one" >}}
+  {{< card url="button" title="Pre-requisites and foundation" icon="cursor-arrow-rays" >}}
+  {{< card url="callout" title="On-shell techniques for tree-level" icon="warning" >}}
+  {{< card url="cards" title="Handling the loop amplitude" icon="card" >}}
+  {{< card url="toggle" title="Gravitational physics from amplitude" icon="chevron-right" >}}
+  {{< card url="steps" title="Mathematics and geometry of amplitudes" icon="one" >}}
 {{< /cards >}}
