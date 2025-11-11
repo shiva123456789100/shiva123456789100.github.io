@@ -19,7 +19,7 @@ main:
   - name: News
     url: /#news
     weight: 20
-  - name: Courses
+  - name: Teaching QFT
     url: courses/
-    weight: 20
+    weight: 26
 
