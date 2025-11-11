@@ -1,6 +1,6 @@
 ---
 title: "Prerequisites and foundations"
-linkTitle: Buttons
+
 ---
 
 Before starting to explore scattering amplitude-based techniques, you should be not only familiar but also **comfortable** with concepts and computations in  
