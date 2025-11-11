@@ -1,5 +1,5 @@
 ---
-title: "Other Cool amplitude stuffs (Under construction)"
+title: "Other Cool amplitude applications (Under construction)"
 ---
 
 
