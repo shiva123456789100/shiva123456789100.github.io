@@ -60,7 +60,7 @@ sections:
       title: My QFT 
       filters:
         folders:
-          - courses
+          - courses/hugo-blox
     design:
       view: card 
   - block: collection
