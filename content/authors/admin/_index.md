@@ -38,13 +38,14 @@ profiles:
     icon_pack: fas
     url: mailto:shibashismukhopadhyay@gmail.com
 
-  - icon: github
-    icon_pack: fab
+  - icon: brands/github
     url: https://github.com/shiva123456789100
 
-  - icon: linkedin
-    icon_pack: fab
+  - icon: brands/linkedin
     url: https://www.linkedin.com/in/shibashis-mukhopadhyay-5b665b235/
+
+  - icon: brands/instagram
+    url: https://www.instagram.com/shivaiiserkol?igsh=MThlcDg4azZjbDd4dw==
 
 
 interests:
