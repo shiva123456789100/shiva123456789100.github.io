@@ -6,7 +6,7 @@ sidebar:
 ---
 
 {{< cards >}}
-  {{< card url="formatting" title="Formatting" icon="document-duplicate" >}}
-  {{< card url="project-structure" title="Project Structure" icon="document-duplicate" >}}
-  {{< card url="configuration" title="Configuration" icon="adjustments-vertical" >}}
+  {{< card url="formatting" title="Applications of scattering amplitudes" icon="document-duplicate" >}}
+  {{< card url="project-structure" title="QFT in HEP and cosmology" icon="document-duplicate" >}}
+  {{< card url="configuration" title="QFT in condensed matter" icon="adjustments-vertical" >}}
 {{< /cards >}}
