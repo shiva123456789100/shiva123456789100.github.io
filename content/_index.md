@@ -55,6 +55,15 @@ sections:
     design:
       view: card
   - block: collection
+    id: courses
+    content:
+      title: My QFT 
+      filters:
+        folders:
+          - courses
+    design:
+      view: card 
+  - block: collection
     id: projects
     content:
       title: '🧠 Research  Projects'
