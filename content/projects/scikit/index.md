@@ -23,7 +23,7 @@ born in stars, reactors, and the early breath of the cosmos itself.
 Once thought massless and indifferent, neutrinos **change their identity** as they move —  
 a ballet of quantum flavors: electron $(\nu_e)$, muon $(\nu_\mu)$, and tau $(\nu_\tau)$.  
 
-This metamorphosis is called **neutrino oscillation**,  
+This is called **neutrino oscillation**,  
 a phenomenon that arises because **flavor states** are not the same as **mass states**.
 
 $$
@@ -32,24 +32,21 @@ $$
 
 Here, $|\nu_\alpha\rangle$ are the flavor eigenstates,  
 $|\nu_i\rangle$ are the mass eigenstates,  
-and $U_{\alpha i}$ form the **PMNS matrix** —  
-a delicate rotation in the space of quantum identity.
+and $U_{\alpha i}$ form the **PMNS matrix**.
 
 ---
 
 ##  **The Probability gets it right**
 
-As a neutrino propagates, each mass state accrues a phase,  
-and interference between them gives rise to oscillations.  
+As a neutrino propagates, each mass state acquires a phase,  
+and interference between them gives rise to oscillations between mass states.  
 
 The probability that a neutrino born in flavor $\alpha$  
-will be detected as flavor $\beta$ after traveling a distance $L$ is:
+will be detected as flavor $\beta$ after traveling a distance $L$ can be computed as:
 
 $$P_{\alpha \rightarrow \beta} = \delta_{\alpha \beta}- 4 \sum_{i>j} \text{Re}(U_{\alpha i} U_{\beta i}^* U_{\alpha j}^* U_{\beta j})\sin^2 \left(\frac{\Delta m^2_{ij} L}{4E}\right) + 2 \sum_{i>j} \text{Im}(U_{\alpha i} U_{\beta i}^* U_{\alpha j}^* U_{\beta j})\sin\left(\frac{\Delta m^2_{ij} L}{2E}\right)$$
 
-Each term in this symphony tells a story —  
-of **mass differences** $\Delta m^2_{ij}$, **energy** $E$, and **distance** $L$,  
-woven together by the universal language of interference.
+The important parameters to dictate the amplitude of oscillation ,as you can see in the expression are, the **mass differences** $\Delta m^2_{ij}$, **energy** $E$, and **distance** $L$. 
 
 ---
 
@@ -60,7 +57,11 @@ physicists have chased these elusive transitions.
 
 - **Super-Kamiokande (Japan):**  
   The shimmering light of Cherenkov rings revealed that atmospheric neutrinos  
-  vanish and reappear — the first solid proof of oscillations.  
+  vanish and reappear — the first definitive proof of oscillations.
+
+- **Hyper-Kamiokande (Japan):**
+     A massive, next-generation neutrino observatory under construction in Japan, designed to be a successor to the Super-
+   Kamiokande experiment.
 
 - **SNO (Canada):**  
   Using heavy water, SNO showed that solar neutrinos  
@@ -76,8 +77,10 @@ physicists have chased these elusive transitions.
 
 - **DUNE (USA)** and **Hyper-Kamiokande (Japan)** (upcoming):  
   The next generation, poised to uncover whether neutrinos hold  
-  the key to the matter–antimatter asymmetry of the cosmos.  
+  the key to the matter–antimatter asymmetry of the cosmos.
 
+- **IceCube Neutrino observatory**
+   First detector of its kind, designed to observe the cosmos from deep within the South Pole icesheet. Currently under construction.
 ---
 
 ##  **Mystery Yet Unsolved**
@@ -87,7 +90,7 @@ there are mysteries that have defied our attempts to unravel, the poem that only
 1.Whether the mass hierarchy is **normal** or **inverted**.  
 2.If neutrinos are their own antiparticles — **Majorana or Dirac?**  
 3.Whether they hide a hint of **CP violation**  
-  that shaped the universe’s preference for matter over antimatter,**us** over **anti-us**.
+  that shaped the universe’s preference for matter over antimatter,**human** over **anti-human**.
 
 ---
 
