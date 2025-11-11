@@ -1,202 +1,29 @@
 ---
-title: Buttons
+title: "Prerequisites and foundations"
 linkTitle: Buttons
 ---
 
-A modern, customizable button shortcode with gradient styling, icons, and smart link handling.
+Before starting to explore scattering amplitude-based techniques, you should be not only familiar but also **comfortable** with concepts and computations in  
+1. Feynman-diagrammatic techniques and computations of $\mathcal{M}$ matrix
+2.Quantum Electrodynamics (QED) — the time-tested jewel of QFT, and the theory in which our confidence shines the brightest.
+3. Non-abelian gauge theory. (YM theory) . Exposure to gluon amplitudes is very useful, as perturbative quantum gravity is inspired from YM.
+
+These concepts you can easily find in any book on introductory QFT. But, again be-aware the approaches will be very different to discuss the same material. 
+
+Once, you have the pre-requisites, the next hurdle is **Spinor-Helicity formalism** which is  **AK-47 of modern amplitude war**.
+
+I would recommend if you study this part from a particular book , you may feel lost. So, refer to modern literature-review and make use of recorded youTube lectures of seminars. "Amplitudes" conference lectures had been psoted in youTube, since 2020. These are really good lectures to start with. I found the following lectures very intriguing. These covers from basics of amplitude compuatation to various applications of it.
+
+1.**Basics of Scattering Amplitudes: Amplitude Games 2021** by **Prof. Henriette Elvang**[Click here](https://www.youtube.com/watch?v=0_pqsOYMHP4&list=PLejkXpUan6WEqle5MQttuFK2_TWzJSUNw)
+2.**Scattering Amplitudes and Gravitational Waves: Young Frontiers Meeting at ICTP-SAIFR** by **Julio Parra-Martínez** [Click Here](https://www.youtube.com/watch?v=gsK8YvxdvB4&t=8s)
+3.**Amplitudes and Observables: IAS Summer school 2024** by **Prof. Donal O' Connell** [click Here](https://www.youtube.com/watch?v=HpEeohfsC_0)
+4.**Introduction to Scattering Amplitudes:SAGEX Network** by **Professor Johannes Henn**[click here](https://www.youtube.com/watch?v=7vxBqoHlDuM)
+
+I will keep posting lecture series I find interesting and I understand. If you find something cool , just let me know. I will post it here.
+
+
+
+
 
 <!--more-->
 
-## Basic Usage
-
-{{< button url="/contact" >}}Contact Us{{< /button >}}
-
-{{< button url="https://example.com" new_tab="true" style="secondary" >}}Visit External Site{{< /button >}}
-
-The above buttons are created with:
-
-```go-html-template
-{{</* button url="/contact" */>}}Contact Us{{</* /button */>}}
-
-{{</* button url="https://example.com" new_tab="true" style="secondary" */>}}Visit External Site{{</* /button */>}}
-```
-
-## Style Variants
-
-### Primary (Default)
-
-{{< button url="#" style="primary" >}}Primary Button{{< /button >}}
-
-```go-html-template
-{{</* button url="#" style="primary" */>}}Primary Button{{</* /button */>}}
-```
-
-### Secondary
-
-{{< button url="#" style="secondary" >}}Secondary Button{{< /button >}}
-
-```go-html-template
-{{</* button url="#" style="secondary" */>}}Secondary Button{{</* /button */>}}
-```
-
-### Outline
-
-{{< button url="#" style="outline" >}}Outline Button{{< /button >}}
-
-```go-html-template
-{{</* button url="#" style="outline" */>}}Outline Button{{</* /button */>}}
-```
-
-### Ghost
-
-{{< button url="#" style="ghost" >}}Ghost Button{{< /button >}}
-
-```go-html-template
-{{</* button url="#" style="ghost" */>}}Ghost Button{{</* /button */>}}
-```
-
-## Sizes
-
-### Small
-
-{{< button url="#" size="sm" >}}Small Button{{< /button >}}
-
-### Medium (Default)
-
-{{< button url="#" size="md" >}}Medium Button{{< /button >}}
-
-### Large
-
-{{< button url="#" size="lg" >}}Large Button{{< /button >}}
-
-### Extra Large
-
-{{< button url="#" size="xl" >}}Extra Large{{< /button >}}
-
-```go-html-template
-{{</* button url="#" size="sm" */>}}Small Button{{</* /button */>}}
-{{</* button url="#" size="md" */>}}Medium Button{{</* /button */>}}
-{{</* button url="#" size="lg" */>}}Large Button{{</* /button */>}}
-{{</* button url="#" size="xl" */>}}Extra Large{{</* /button */>}}
-```
-
-## Alignment
-
-### Left (Default)
-
-{{< button url="#" align="left" >}}Left Aligned{{< /button >}}
-
-### Center
-
-{{< button url="#" align="center" >}}Center Aligned{{< /button >}}
-
-### Right
-
-{{< button url="#" align="right" >}}Right Aligned{{< /button >}}
-
-```go-html-template
-{{</* button url="#" align="left" */>}}Left Aligned{{</* /button */>}}
-{{</* button url="#" align="center" */>}}Center Aligned{{</* /button */>}}
-{{</* button url="#" align="right" */>}}Right Aligned{{</* /button */>}}
-```
-
-## With Icons
-
-### Icon Before Text
-
-{{< button url="#" icon="arrow-down-tray" >}}Download{{< /button >}}
-
-### Icon After Text
-
-{{< button url="#" icon="arrow-right" icon_position="right" >}}Continue{{< /button >}}
-
-```go-html-template
-{{</* button url="#" icon="arrow-down-tray" */>}}Download{{</* /button */>}}
-{{</* button url="#" icon="arrow-right" icon_position="right" */>}}Continue{{</* /button */>}}
-```
-
-## Rounded Corners
-
-### Small Radius
-
-{{< button url="#" rounded="sm" >}}Small Radius{{< /button >}}
-
-### Medium Radius (Default)
-
-{{< button url="#" rounded="md" >}}Medium Radius{{< /button >}}
-
-### Large Radius
-
-{{< button url="#" rounded="lg" >}}Large Radius{{< /button >}}
-
-### Pill Shape
-
-{{< button url="#" rounded="full" >}}Pill Button{{< /button >}}
-
-```go-html-template
-{{</* button url="#" rounded="sm" */>}}Small Radius{{</* /button */>}}
-{{</* button url="#" rounded="md" */>}}Medium Radius{{</* /button */>}}
-{{</* button url="#" rounded="lg" */>}}Large Radius{{</* /button */>}}
-{{</* button url="#" rounded="full" */>}}Pill Button{{</* /button */>}}
-```
-
-## Advanced Examples
-
-### Call-to-Action Button
-
-{{< button url="/signup" style="primary" size="lg" align="center" icon="rocket-launch" >}}Get Started Today{{< /button >}}
-
-```go-html-template
-{{</* button url="/signup" style="primary" size="lg" align="center" icon="rocket-launch" */>}}Get Started Today{{</* /button */>}}
-```
-
-### External Link with New Tab
-
-{{< button url="https://github.com/hugo-blox/hugo-blox-builder" new_tab="true" style="outline" icon="arrow-top-right-on-square" icon_position="right" >}}View on GitHub{{< /button >}}
-
-```go-html-template
-{{</* button url="https://github.com/hugo-blox/hugo-blox-builder" new_tab="true" style="outline" icon="arrow-top-right-on-square" icon_position="right" */>}}View on GitHub{{</* /button */>}}
-```
-
-### Download Button
-
-{{< button url="/files/document.pdf" style="secondary" icon="document-arrow-down" rounded="full" >}}Download PDF{{< /button >}}
-
-```go-html-template
-{{</* button url="/files/document.pdf" style="secondary" icon="document-arrow-down" rounded="full" */>}}Download PDF{{</* /button */>}}
-```
-
-## Parameters
-
-| Parameter       | Type    | Default       | Description                                                 |
-| --------------- | ------- | ------------- | ----------------------------------------------------------- |
-| `url`           | string  | `#`           | **Required.** Button destination URL (internal or external) |
-| `text`          | string  | Inner content | Button text (overrides shortcode content)                   |
-| `new_tab`       | boolean | `false`       | Whether to open link in new tab                             |
-| `style`         | string  | `primary`     | Button style: `primary`, `secondary`, `outline`, `ghost`    |
-| `size`          | string  | `md`          | Button size: `sm`, `md`, `lg`, `xl`                         |
-| `align`         | string  | `left`        | Button alignment: `left`, `center`, `right`                 |
-| `icon`          | string  | -             | Icon name from [Hero Icons](https://heroicons.com/)         |
-| `icon_position` | string  | `left`        | Icon position: `left`, `right`                              |
-| `rounded`       | string  | `md`          | Border radius: `sm`, `md`, `lg`, `xl`, `full`               |
-| `disabled`      | boolean | `false`       | Whether button should be disabled                           |
-
-## Security Features
-
-The button shortcode automatically handles security for external links:
-
-- **External links** get `rel="noreferrer"` attribute
-- **External links opening in new tab** get `rel="noopener noreferrer"`
-- **Internal links opening in new tab** get `rel="noopener"`
-
-This ensures safe navigation while maintaining functionality.
-
-## Accessibility
-
-The button shortcode includes built-in accessibility features:
-
-- Proper `role="button"` attribute
-- `aria-label` support
-- Keyboard focus indicators
-- High contrast focus rings
-- Disabled state handling
