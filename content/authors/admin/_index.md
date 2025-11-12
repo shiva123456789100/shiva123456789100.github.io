@@ -24,7 +24,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior year Undergrad student
+role: 5th year BS-MS student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
